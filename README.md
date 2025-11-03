@@ -6,7 +6,8 @@
 Je suis une développeuse **Front-End et Mobile** passionnée par la création d’applications propres, réactives et faciles à utiliser. J’aime travailler avec **React**, **Next.js** et **React Native** pour transformer les idées en expériences digitales fonctionnelles. Toujours en apprentissage, je cherche à améliorer mes compétences et à explorer de nouvelles technologies pour créer de meilleures solutions chaque jour.  
 
 - 🌍 Je suis basée en France  
-- ✉️ Vous pouvez me contacter à [sarra.khiari.contact@gmail.com](mailto:sarra.khiari.contact@gmail.com)  
+- 📩 [sarra.khiari.contact@gmail.com](mailto:sarra.khiari.contact@gmail.com) ✨ 🌐 [Portfolio](https://portfolio-sarra-khiari.vercel.app/)
+
 
 ---
 
